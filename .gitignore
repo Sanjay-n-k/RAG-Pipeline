@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Local data
+data/
+*.db
+
+# API keys & env
+.env
